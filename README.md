@@ -1,5 +1,7 @@
 # CircleCI
 
+[![CircleCI](https://circleci.com/gh/Kelley12/circle-ci.svg?style=svg)](https://circleci.com/gh/Kelley12/circle-ci)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
